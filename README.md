@@ -1,2 +1,2 @@
-datasciencecourse
+datasciencecoursera
 ================
